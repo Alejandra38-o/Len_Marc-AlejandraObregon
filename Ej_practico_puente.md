@@ -12,7 +12,7 @@ pero echadle un ojo porque es fácil de entender. Tan solo fijaos en el atributo
 Introducid algunos comentarios dentro del código fuente, recordad que <!-- Se hace así -->
 
 # Solución
-html´´´
+´´´html
 <!DOCTYPE html>
 <html lang="es">
 
@@ -327,4 +327,4 @@ importante (los lectores de pantalla lo leen con más énfasis).
 </body>
 
 </html>
-´´´
+```
